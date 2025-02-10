@@ -238,6 +238,16 @@ const questions = [
               { text: "Mercury", correct: true}
         ]
     
+    },
+    {
+        question: "Who wrote the novels Gone Girl and Sharp Objects?",
+        answers: [
+              { text: "Alan Felix", correct: false},
+              { text: "Gillian Flynn", correct: true},
+              { text: "Alex Whyte", correct: false},
+              { text: "Mercy Gray", correct: false}
+        ]
+    
     }
 ];
 
