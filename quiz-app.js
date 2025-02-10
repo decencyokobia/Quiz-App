@@ -198,6 +198,46 @@ const questions = [
               { text: "France", correct: false}
         ]
     
+    },
+    {
+        question: "How many films have Al Pacino and Robert De Niro appeared in together?",
+        answers: [
+              { text: "7", correct: false},
+              { text: "4", correct: true},
+              { text: "9", correct: false},
+              { text: "59", correct: false}
+        ]
+    
+    },
+    {
+        question: "What was the old name for a Snickers bar before it changed in 1990?",
+        answers: [
+              { text: "Marathon", correct: true},
+              { text: "Roblox", correct: false},
+              { text: "Tachi", correct: false},
+              { text: "Oflon", correct: false}
+        ]
+    
+    },
+    {
+        question: "Who was the head of state in Japan during the Second World War?",
+        answers: [
+              { text: "Emperor Cesear", correct: false},
+              { text: "Emperor Omar", correct: false},
+              { text: "Emperor Micha", correct: false},
+              { text: "Emperor Hirohito", correct: true}
+        ]
+    
+    },
+    {
+        question: "What is the smallest planet in our solar system?",
+        answers: [
+              { text: "Pluto", correct: false},
+              { text: "Mars", correct: false},
+              { text: "Saturn", correct: false},
+              { text: "Mercury", correct: true}
+        ]
+    
     }
 ];
 
